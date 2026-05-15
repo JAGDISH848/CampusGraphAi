@@ -1,9 +1,0 @@
-✅ GraphRAG Technology
-
-✅ Knowledge Graphs
-
-✅ AI-based Query System
-
-✅ Streamlit Dashboard
-
-✅ NetworkX Graph Visualization
